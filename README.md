@@ -1,12 +1,12 @@
 <h1 align="start">Hi 👋, I'm Elisa</h1>
 
-### 🎓 Passionate, enthusiastic, multi-potential, also gamer 🎮
+### 🎓 Passionate and enthusiastic junior web dev, also gamer 🎮
 
 - 💻 Click on [my portfolio](https://elisa-canyelles-portfolio.netlify.app/) to see a selection of my work and projects.
 - 💼 Before changing my career path to a web dev, I set up my own business working as SEO and copywriter.
 - 📚 My curiosity and my will to learn knows no bounds and I love teamwork.
 - 🤝 I stand up for companies which encourages personal development of employees.
-- ✈ Fun facts: I'm a travel addict and I've lived in differents countries. 
+- ✈ Fun facts: I'm a travel addict and I've lived in 7 differents countries. 
 
 <br />
 
